@@ -5,4 +5,7 @@ public class text {
         System.out.println("66666");
         System.out.println("99999");
     }
+    public void testt(){
+        int i = 10;
+    }
 }
